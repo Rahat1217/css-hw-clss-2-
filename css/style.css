@@ -1,0 +1,551 @@
+
+ .web{
+
+    display: inline-block;
+background-color: rgba(238, 202, 0, 0.411);
+background-blend-mode:multiply ;
+background-size:cover;
+background-repeat: no-repeats;
+width: 400px;
+height: auto;
+text-align: center;
+padding:30px 20px;
+font-size: larger;
+border-radius: 10px; 
+margin: 50px auto;
+}
+.web h1{ 
+    font-family: 'Courier New', Courier, monospace;
+     color: rgba(233, 46, 21, 0.884);
+
+}
+.web p{
+    text-align: justify;
+}
+.web a{
+    background-color: blueviolet;
+    color: aliceblue;
+    text-decoration: none;
+    padding: 15px 30px;
+    display: inline-block;
+    border-radius: 5px;
+    transition:100ms;
+}
+.web a:hover {
+    width: 100px;
+    padding: 20px 40px;
+    background-color:red;
+    color:whitesmoke;
+    border-radius: 100px;
+}
+.web2{
+    background: #1f4037;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #99f2c8, #1f4037);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #99f2c8, #1f4037); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+ .dev{ 
+    display: inline-block;
+    background-color:rgb(26, 114, 63);
+    margin: 50px auto;
+    background-blend-mode:multiply ;
+background-size:cover;
+background-repeat: no-repeats;
+ color: rgb(171, 116, 223);
+ width: 400px;
+ height: auto;
+ text-align:center;
+ padding: 30px 20px;
+ border-radius: 10px;
+ }
+.dev h1 {
+    font-family: 'Courier New', Courier, monospace;
+    color: azure;
+}
+.dev p {
+    color: aliceblue;
+}
+.dev a{
+    text-decoration: none;
+    background-color:coral;
+    color:white;
+    padding: 15px 30px;
+    display:  inline-block;
+    border-radius: 10px;
+    transition: 300ms;
+}
+.dev a:hover{
+    background-color: black;
+    color: white;
+    border-radius:50px ;
+    padding:20px 40px ;
+
+}   
+.dev2{
+    background: linear-gradient(to bottom, #99ffcc 0%, #3366ff 100%);
+}
+.graphic{
+    display: inline-block;
+    background: linear-gradient(to right, #33ccff 0%, #0000cc 112%);
+    background-blend-mode:multiply ;
+    background-size:cover;
+    width: 400px;
+    height: auto;
+    padding: 30px 20px;
+    border-radius: 10px;
+    margin: 50px auto;
+}
+.graphic h1{
+font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.graphic a{
+      text-decoration: none;
+      background-color: red;
+      color: whitesmoke;
+      padding: 15px 30px;
+      display:  inline-block;
+      border-radius: 10px;
+      transition: 300ms;
+}
+.graphic a:hover{
+    background-color: white;
+    color:black;
+    border-radius:50px ;
+    padding:20px 40px ;
+
+}
+.digm{
+    display: inline-block;
+   text-align: justify;
+   background: linear-gradient(to bottom, #ffffff 0%, #00ff00 100%);
+    background-blend-mode:multiply ;
+    background-size:cover;
+    width: 400px;
+    height: auto;
+    padding: 30px 20px;
+    border-radius: 10px;
+    margin: 50px auto;
+}
+.digm a{  text-decoration: none;
+    background-color: plum;
+    color: whitesmoke;
+    padding: 15px 30px;
+    display:  inline-block;
+    border-radius: 10px;
+    transition: 300ms;
+}
+.digm a:hover{
+   background-color: #3366ff;
+   color: aliceblue;
+   border-radius:50px ;
+    padding:20px 40px ;
+
+}
+.intd{ display: inline-block;
+    text-align: center;
+   background-image: url(../img/bg\ img.webp);
+    background-blend-mode:multiply ;
+    background-size:cover;
+    width: 400px;
+    height: auto;
+    padding: 30px 20px;
+    border-radius: 10px;
+    margin: 50px auto;
+}
+.intd h1{
+    font-family: 'Courier New', Courier, monospace;
+}
+.intd p{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: large;
+}
+.intd a{ text-decoration: none;
+    background-color:aliceblue;
+    color:skyblue;
+    padding: 15px 30px;
+    display:  inline-block;
+    border-radius: 10px;
+    transition: 300ms;
+}
+.intd a:hover{
+    background-color: #3366ff;
+    color: aliceblue;
+    border-radius:50px ;
+     padding:20px 40px ;
+     } 
+     .an{
+        display: inline-block;
+        text-align: right;
+        width: 400px;
+        height: auto;
+        background-image: url(../img/3ooooo.jpg);
+        background-size: cover;
+        background-repeat: no-repeat;
+        padding: 30px 20px;
+        border-radius: 10px;
+        margin: 50px auto;
+
+     }
+     .an h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+     }
+     .an p{
+        font-size: larger;
+     }
+     .an a{
+        text-decoration: none;
+        background-color:aliceblue;
+    color:skyblue;
+    padding: 15px 30px;
+    display:  inline-block;
+    border-radius: 10px;
+    transition: 300ms;
+}
+    .an a:hover{
+        background-color: #3366ff;
+    color: aliceblue;
+    border-radius:50px ;
+     padding:20px 40px ;
+    }    
+     .die{ display: inline-block;
+      text-align: justify;
+        width: 400px;
+        height: auto;
+        background-image: url(../img/bg.jpeg);
+        background-size: cover;
+        background-repeat: no-repeat;
+        padding: 30px 20px;
+        border-radius: 10px;
+        margin: 50px auto;
+     }
+     .die h1{
+        text-align: center;
+     font-family: 'Courier New', Courier, monospace;
+     color:whitesmoke;
+     }
+     .die p{
+        color: white;
+        font-size: larger;
+     }
+     .die a{
+        text-decoration: none;
+        background-color: aliceblue;
+        padding: 15px 30px;
+        display: inline-block;
+        border-radius: 10px;
+        transition: 300ms;
+     }
+      .die a:hover{
+        background-color:yellow;
+        color:red;
+        border-radius:50px ;
+         padding:20px 40p
+
+      }
+      .aph{
+        display: inline-block;
+        text-align: center;
+       border:dotted;
+       border-width: 7px;
+        color:red;
+        width: 400px;
+        height: auto;
+        padding: 30px 20px;
+        font-family: 'Courier New', Courier, monospace;
+        font-size: larger;
+        border-radius: 10px;
+        margin: 50px auto;
+      }
+      .aph p{
+        text-align: justify;
+      }
+      .aph a{
+        text-decoration: none;
+        background-color:rgb(224, 231, 156);
+        padding: 15px 30px;
+        display: inline-block;
+        border-radius: 10px;
+        transition: 300ms;
+      }
+      .aph a:hover{
+        background-color:yellow;
+        color:red;
+        border-radius:50px ;
+         padding:20px 40p
+
+
+      }
+      .ss{
+   
+        display: inline-block;
+        text-align: justify;
+          width: 400px;
+          height: auto;
+        background-color: white;
+        color: #0000cc;
+        border: dotted;
+        border-color: red;
+          background-repeat: no-repeat;
+          padding: 100px 50px;
+          border-radius:500px;
+          margin: 50px auto;
+      
+      }
+      .ss h1{
+        font-family: Arial, Helvetica, sans-serif;
+        text-align: center;
+        
+
+      }
+      .ss p{
+        text-align: justify;
+
+      }
+      .ss a{
+      text-align: center;
+        text-decoration: none;
+        background-color: red;
+        color: white;
+        padding: 20px 10px;
+        border-radius: 10px;
+        display: inline-block;
+        transition: 300ms;
+      
+      }
+      .ss a:hover{
+        background-color: #0000cc;
+        color: #33ccff;
+padding: 25px 15px;
+      }
+      .pog{
+        display: inline-block;
+     background-color: gray;
+     color: #0000cc;
+     width: 400px;
+     height: auto;
+     text-align: center;
+     border-radius: 25px;
+     margin: 50px auto;
+      }
+      .pog h1{
+    font-family: 'Courier New', Courier, monospace;
+    color: aliceblue;
+    background-color: red;
+      }
+     .pog a {
+        background-color: wheat;
+        padding: 20px 30px;
+        display: inline-block;
+     }
+     .pog a.oi{
+        text-decoration: none;
+        font-family: 'Courier New', Courier, monospace;
+        background-color:yellowgreen ;
+        padding: 20px 30px;
+        border-radius: 30px;
+     }
+     .pog a.oi:hover {
+        background-color: aqua;
+        color: white;
+        padding: 30px 40px;
+
+     }
+     .pog a.ui{
+        text-decoration: none;
+        font-family: 'Courier New', Courier, monospace;
+        background-color:yellow;
+        padding: 20px 30px;
+        border-radius: 30px;
+     }
+     .pog a.ui:hover{
+
+        background-color: rgb(221, 100, 30);
+        color: white;
+        padding: 30px 40px;
+
+
+     }
+     .pog a.po{
+        text-decoration: none;
+        font-family: 'Courier New', Courier, monospace;
+        background-color:yellow;
+        padding: 20px 30px;
+        border-radius: 30px;
+    
+     }
+     .pog a.po:hover{
+        background-color: rgb(21, 228, 141);
+        color: white;
+        padding: 30px 40px;
+     }
+     .Code{
+
+        display: inline-block;
+        margin: 30px;
+        background-color: gray;
+        color: #0000cc;
+        width: 400px;
+        height: auto;
+        text-align: center;
+        border-radius: 25px;
+        margin: 50px auto;
+     }
+.Code h1{
+    font-family: 'Courier New', Courier, monospace;
+    background-color:cornflowerblue;
+    color: aliceblue;
+    padding: 20px 30px ;
+}
+.Code p.et{
+    background-color: #0e0f0e;
+    color: white;
+    padding: 10px 15px;
+    font-size: larger;
+}
+.Code p.slp{
+    color: white;
+    background-color: #5a3d9c;
+    padding: 10px 15px;
+    font-size: larger;
+ }
+ .Code p.co{
+    color: white;
+    background-color: #df9848;
+    padding: 10px 15px;
+    font-size: larger;
+
+     }
+     .Code p.re{
+        color: white;
+        background-color: #d64ec4;
+        padding: 10px 15px;
+        font-size: larger;
+ }
+
+ .taj{    
+ display: inline-block;
+ margin: 50px auto;
+background-image: url(../img/tom\ and\ jerry.jpg);
+background-size: cover;
+background-repeat: no-repeat;
+border-radius: 10px;
+border: solid;
+margin: 50px;
+ width: 400px;
+ height: auto;
+ text-align: center;
+ border-radius: 25px;
+}
+.taj h1 {
+font-family: 'Courier New', Courier, monospace;
+font-size:x-large;
+
+}
+.taj p{
+    padding: 15px;
+text-align: justify;
+font-weight: 10px;
+
+}
+.taj a{background-color: rgb(255, 255, 255);
+    text-decoration: none;
+    display: inline-block;
+    padding: 10px 15px;
+    display: inline-block;
+    border-radius:30px;
+
+}
+.taj a:hover{
+    background-color:red;
+        padding: 20px 30px;
+        display: inline-block;
+}
+.creative{
+
+    background: linear-gradient(to bottom, #3333cc -3%, #00ffff 51%);
+    color: white; 
+width: 400px;
+padding: 20px 30px;
+border-radius: 10px;
+text-align: center;
+border: solid;
+margin: 50px auto;
+
+}
+.creative a.wd{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 200px;
+    text-decoration: none;
+    display: inline-block;
+    padding: 15px 20px;
+    background-color: rgb(231, 79, 231);
+    color: whitesmoke;
+    border-radius: 30px;
+  
+}
+.creative a.wd:hover{ padding: 20px 30px;
+    background-color:yellow;
+    color:black;
+    transition: 300ms;
+}
+
+
+
+.creative a.wb{
+
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 200px;
+    text-decoration: none;
+    display: inline-block;
+    padding: 15px 20px;
+    background-color: rgb(231, 79, 231);
+    color: whitesmoke;
+    border-radius: 30px;
+}
+.creative a.wb:hover{
+    padding: 20px 30px;
+    background-color:yellow;
+    color:black;
+    transition: 300ms;
+}
+.creative a.gd{
+
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 200px;
+    text-decoration: none;
+    display: inline-block;
+    padding: 15px 20px;
+    background-color: rgb(231, 79, 231);
+    color: whitesmoke;
+    border-radius: 30px;
+}
+.creative a.gd:hover{
+
+    padding: 20px 30px;
+    background-color:yellow;
+    color:black;
+    transition: 300ms;
+}
+
+.creative a.dm{
+
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 200px;
+    text-decoration: none;
+    display: inline-block;
+    padding: 15px 20px;
+    background-color: rgb(231, 79, 231);
+    color: whitesmoke;
+    border-radius: 30px;
+}
+.creative a.dm:hover{
+    padding: 20px 30px;
+    background-color:yellow;
+    color:black;
+    transition: 300ms;
+}
+
+
+
+
+
+
